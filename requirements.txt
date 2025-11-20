@@ -48,7 +48,7 @@ some-package==0.1
 tables==3.5.2
 tensorboardX==1.7
 terminaltables==3.1.0
-torch==1.1.0
+torch==2.9.0
 torchfile==0.1.0
 torchnet==0.0.4
 torchvision==0.3.0
